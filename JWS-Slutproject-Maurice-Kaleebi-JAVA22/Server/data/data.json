@@ -1,0 +1,23 @@
+{
+  "p1": {
+    "id": 1,
+    "name":"Maurice",
+    "age":31,
+    "favoriteColor":"Red",
+    "favoriteMovie": "Avatar"
+  },
+  "p2": {
+    "id": 2,
+    "name":"Gustavo",
+    "age":35,
+    "favoriteColor":"Blue",
+    "favoriteMovie": "The Godfather"
+  },
+  "p3": {
+    "id": 3,
+    "name":"Kakarot",
+    "age":40,
+    "favoriteColor":"Yellow",
+    "favoriteMovie": "The Color Purple"
+  }
+}
